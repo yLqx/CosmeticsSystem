@@ -2,10 +2,10 @@
    "uuid":"58025126-17c2-4fe3-bbc9-81519341f7d6",
    "username":null,
    "cosmetics":{ 
-      "protected":{ 
-         "name":"protected",
+      "tellinqclient":{ 
+         "name":"tellinqclient",
          "type":"cape",
-         "scale":0.15,
+         "scale":0.16,
          "active":true,
          "resourceLocation":"tellinqclient"
 },
