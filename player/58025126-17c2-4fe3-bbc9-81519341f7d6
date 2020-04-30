@@ -7,7 +7,7 @@
          "type":"cape",
          "scale":0.15,
          "active":true,
-         "resourceLocation":"aac"
+         "resourceLocation":"tellinqclient"
 },
       "black":{ 
          "name":"black",
