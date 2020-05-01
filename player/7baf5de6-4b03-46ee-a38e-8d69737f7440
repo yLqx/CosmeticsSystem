@@ -1,0 +1,21 @@
+{ 
+   "uuid":"7baf5de6-4b03-46ee-a38e-8d69737f7440",
+   "username":null,
+   "staff":{ 
+      "youtube":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"staff"
+      }
+      ,
+      "butterfly_1":{ 
+         "name":"butterfly_1",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"butterfly_1"
+}
+   }
+}
